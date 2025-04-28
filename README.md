@@ -30,4 +30,12 @@ In addition to demonstrating socket communication, this project also lays the gr
 
 Overall, the Multithreaded Client-Server Chat Application offers a robust, efficient, and extensible solution for real-time communication using core Java technologies. It not only showcases fundamental concepts such as sockets and threads but also emphasizes the importance of concurrent programming in developing scalable and responsive applications. The simplicity of the code makes it highly accessible for beginners while still being powerful enough to serve as a base for more advanced networking projects.
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/dcf73a74-649a-4079-b50c-4f9187bda0a9)
+![Image](https://github.com/user-attachments/assets/c510990b-ae90-4374-a731-8ce3bf69d3cb)
+![Image](https://github.com/user-attachments/assets/0e4b3db0-53f2-4ab7-bf50-d24efa28a4ee)
+![Image](https://github.com/user-attachments/assets/0e469a5e-dab3-4b2e-aae0-367f515e3e9d)
+![Image](https://github.com/user-attachments/assets/04059b1a-a9bc-4abf-80a8-304553de6a87)
+
 
