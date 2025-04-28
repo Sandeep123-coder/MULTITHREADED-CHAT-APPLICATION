@@ -32,10 +32,8 @@ Overall, the Multithreaded Client-Server Chat Application offers a robust, effic
 
 OUTPUT:
 
-![Image](https://github.com/user-attachments/assets/dcf73a74-649a-4079-b50c-4f9187bda0a9)
-![Image](https://github.com/user-attachments/assets/c510990b-ae90-4374-a731-8ce3bf69d3cb)
-![Image](https://github.com/user-attachments/assets/0e4b3db0-53f2-4ab7-bf50-d24efa28a4ee)
-![Image](https://github.com/user-attachments/assets/0e469a5e-dab3-4b2e-aae0-367f515e3e9d)
-![Image](https://github.com/user-attachments/assets/04059b1a-a9bc-4abf-80a8-304553de6a87)
+![Image](https://github.com/user-attachments/assets/96b45b21-107b-4e49-8ff2-2ac690a1c039)
 
+![Image](https://github.com/user-attachments/assets/0f44d15e-e7ed-42a8-978f-636af21b476f)
 
+![Image](https://github.com/user-attachments/assets/8eeab823-e86b-435e-ac66-ba7edf5547a3)
