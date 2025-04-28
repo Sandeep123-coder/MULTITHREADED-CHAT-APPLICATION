@@ -34,6 +34,6 @@ OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/96b45b21-107b-4e49-8ff2-2ac690a1c039)
 
-![Image](https://github.com/user-attachments/assets/0f44d15e-e7ed-42a8-978f-636af21b476f)
+![Image](https://github.com/user-attachments/assets/e70ac0d0-7662-4c50-ba55-c7162ae59a2d)
 
 ![Image](https://github.com/user-attachments/assets/8eeab823-e86b-435e-ac66-ba7edf5547a3)
